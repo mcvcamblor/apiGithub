@@ -1,0 +1,35 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+text-align: center;
+font-size: 20px;
+font-family: sans-serif;
+color: #1D8348;
+background-color: #AAB7B8;
+border-left: auto;
+border-right: auto;
+}
+
+.title {
+font-size: 50px;
+color: #dd7575;
+}
+
+h1, h2 {
+font-family: cursive;
+}
+
+p {
+color: #13485b;
+}
+
+img {
+  width: 25%;
+}
+
+button {
+  background-color: green;
+}
